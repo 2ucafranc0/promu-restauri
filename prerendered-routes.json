@@ -1,13 +1,3 @@
 {
-  "routes": {
-    "/certificazioni": {},
-    "/contatti": {},
-    "/curriculum": {},
-    "/privacy": {},
-    "/rassegna-stampa": {},
-    "/restauri": {},
-    "/restauri/affreschi": {},
-    "/restauri/dipinti": {},
-    "/restauri/monumentali": {}
-  }
+  "routes": {}
 }
